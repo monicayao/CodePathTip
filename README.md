@@ -28,7 +28,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://im7.ezgif.com/tmp/ezgif-7-5311e6162063.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://im7.ezgif.com/tmp/ezgif-7-cc43f5e4fadc.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+<img src='https://im7.ezgif.com/tmp/ezgif-7-1d9d82a3d10a.gif' title='Video Walkthrough Part 2' width='200' alt='Video Walkthrough Part 2' />
 
 GIF created with [ezgif.com](https://ezgif.com/video-to-gif).
 
@@ -36,7 +37,7 @@ GIF created with [ezgif.com](https://ezgif.com/video-to-gif).
 
 I wasn't careful and I initially was using SwiftUI and nothing was matching my expectations! At first I thought the storyboard was just different, but the swift files were header files somehow!
 Tracing back to the beginning and re-doing the app from scratch made me a little sad. I'm not the best designer so I chose to do the other optional features. 
-The GIF makers weren't working well for me, so I recorded with QuickTime and then converted it to a GIF. 
+The GIF makers weren't working well for me, so I recorded with QuickTime and then converted it to a GIF. However, the gif is too long so I couldn't display all of them at once, hence I had to break it down into multiple gifs and change some frame rates around.
 
 ## License
 
