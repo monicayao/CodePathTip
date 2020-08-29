@@ -17,25 +17,26 @@ The following **optional** features are implemented:
 
 * [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [x] Using locale-specific currency and currency thousands separators.
+* [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] A toggle for if the user wants to input a custom tip amount
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://im7.ezgif.com/tmp/ezgif-7-5311e6162063.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [ezgif.com](https://ezgif.com/video-to-gif).
 
 ## Notes
 
 I wasn't careful and I initially was using SwiftUI and nothing was matching my expectations! At first I thought the storyboard was just different, but the swift files were header files somehow!
-Tracing back to the beginning and re-doing the app from scratch made me a little sad. I'm not the best designer so I chose to do the other optional features! 
+Tracing back to the beginning and re-doing the app from scratch made me a little sad. I'm not the best designer so I chose to do the other optional features. 
+The GIF makers weren't working well for me, so I recorded with QuickTime and then converted it to a GIF. 
 
 ## License
 
